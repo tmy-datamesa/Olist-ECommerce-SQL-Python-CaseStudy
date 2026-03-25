@@ -2,6 +2,10 @@
 
 Bu proje, Brezilya'nın önde gelen e-ticaret platformu Olist'e ait halka açık veri setini kullanarak **Google BigQuery** üzerinde kapsamlı bir **SQL Vaka Çalışması** (Case Study) sunmaktadır. Proje, veri temizliğinden ileri düzey metrik hesaplamalarına kadar bir veri analizi sürecini baştan sona uygulamayı amaçlamıştır.
 
+<img width="1863" height="1046" alt="image" src="https://github.com/user-attachments/assets/c5ba53b3-1376-4f4e-bc92-c2954191a1d9" />
+
+<img width="1866" height="1041" alt="image" src="https://github.com/user-attachments/assets/634bd886-8482-4bd6-acd8-b90b1858b943" />
+
 ## 🎯 Proje Amaçları
 
 BigQuery'nin gücünden yararlanılarak, Olist'in 100K+ sipariş verisi üzerinden aşağıdaki temel hedefler gerçekleştirilmiştir:
